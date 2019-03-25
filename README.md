@@ -11,3 +11,7 @@ Terminal Shortcuts
 * Delete to the end of the line                         => control + k
 * Delete backwards to the beginning of the word         => control + w
 ```
+## Working with windows and tabs
+```
+* Switch between tabs => control + tab
+```

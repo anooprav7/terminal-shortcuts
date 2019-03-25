@@ -1,5 +1,6 @@
 # terminal-shortcuts
 Terminal Shortcuts
+[Official Apple Docs](https://support.apple.com/en-in/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
 
 ## Editing a command line
 ```
